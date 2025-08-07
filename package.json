@@ -36,7 +36,7 @@
     "sirv": "^2.0.3"
   },
   "peerDependencies": {
-    "nuxt": "^3.0.0"
+    "nuxt": ">=3.0.0"
   },
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.15",
